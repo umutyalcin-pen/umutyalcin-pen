@@ -4,12 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=das&label=Profile%20views&color=0e75b6&style=flat" alt="das" /> 
 </p>
 
-<p align="left"> 
-    <a href="https://twitter.com/" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter'da takip et" />
-    </a> 
-</p>
-
 ---
 
 * 🌱 Şu anda **Python, mySQL, Pentest ve exploit** öğreniyorum.
