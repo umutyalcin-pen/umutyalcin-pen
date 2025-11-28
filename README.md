@@ -20,7 +20,7 @@
 
 * 🌱 Şu anda **Python, mySQL, Pentest** öğreniyorum.
 
-* 📝 Düzenli olarak **Substack** adresimde yazılar yazıyorum.
+* 📝 Düzensiz olarak **Substack** adresimde yazılar yazıyorum.
 
 * 📫 Bana şu adresten ulaşabilirsiniz: **artabqos251@gmail.com**
 
