@@ -4,11 +4,23 @@
     <img src="https://komarev.com/ghpvc/?username=das&label=Profile%20views&color=0e75b6&style=flat" alt="das" /> 
 </p>
 
+<p align="left"> 
+    <a href="https://www.instagram.com/umutyalcine?igsh=c21xZ2psNG56cHN5" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-@umutyalcine-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @umutyalcine" />
+    </a>&nbsp;&nbsp; <a href="https://www.instagram.com/1yildapentesterolcam?igsh=MTU0dmRwbDNwMXlvcw==" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-@1yildapentesterolcam-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @1yildapentesterolcam" />
+    </a>&nbsp;&nbsp; <a href="https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh" target="_blank">
+        <img src="https://img.shields.io/badge/Substack-abqlinux-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack abqlinux" />
+    </a>&nbsp;&nbsp; <a href="https://1000kitap.com/Meineliebewittgenstein" target="_blank">
+        <img src="https://img.shields.io/badge/1000Kitap-Meineliebewittgenstein-795548?style=for-the-badge" alt="1000Kitap Meineliebewittgenstein" />
+    </a>
+</p>
+
 ---
 
-* 🌱 Şu anda **Python, mySQL, Pentest ve exploit** öğreniyorum.
+* 🌱 Şu anda **Python, mySQL, Pentest** öğreniyorum.
 
-* 📝 Düzenli olarak [https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh](https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh) adresinde yazılar yazıyorum.
+* 📝 Düzenli olarak **Substack** adresimde yazılar yazıyorum.
 
 * 📫 Bana şu adresten ulaşabilirsiniz: **artabqos251@gmail.com**
 
