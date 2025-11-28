@@ -19,7 +19,7 @@
 ---
 
 * 🌱 Şu anda **Python, mySQL, Pentest** öğreniyorum.
-
+* 💻 Güncel olarak Chrome için eklentiler yazıyorum.
 * 📝 Düzensiz olarak **Substack** adresimde yazılar yazıyorum.
 
 * 📫 Bana şu adresten ulaşabilirsiniz: **artabqos251@gmail.com**
