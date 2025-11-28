@@ -14,7 +14,7 @@
 
 * 🌱 Şu anda **Python, mySQL, Pentest** öğreniyorum.
 
-* 📝 Düzenli olarak [https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh](https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh) adresinde makaleler yazıyorum.
+* 📝 Düzenli olarak [https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh](https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh) adresinde yazılar yazıyorum.
 
 * 📫 Bana şu adresten ulaşabilirsiniz: **artabqos251@gmail.com**
 
