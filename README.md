@@ -12,7 +12,7 @@
 
 ---
 
-* 🌱 Şu anda **Python, mySQL, Pentest** öğreniyorum.
+* 🌱 Şu anda **Python, mySQL, Pentest ve exploit** öğreniyorum.
 
 * 📝 Düzenli olarak [https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh](https://open.substack.com/pub/abqlinux?utm_source=share&utm_medium=android&r=6dmoxh) adresinde yazılar yazıyorum.
 
