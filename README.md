@@ -18,11 +18,12 @@
 
 ---
 
-* 🌱 Şu anda **Python, mySQL, Pentest** öğreniyorum.
-* 💻 Güncel olarak Chrome için eklentiler ve android için uygulamalar yazıyorum.
-* 📝 Düzensiz olarak **Substack** adresimde yazılar yazıyorum.
+* 🌱 Şu anda **bir proje üzerine geliştirme ve hardening** yapıyorum.
+* 💻 Güncel olarak backend ve LLM'ler üzerine çalışıyorum.
+* 📝 Araştırdığım konular hakkında **Substack** adresimde yazılar yazıyorum.
 
-* 📫 Bana şu adresten ulaşabilirsiniz: **artabqos251@gmail.com**
+* 📫 Bana şu adresten ulaşabilirsiniz: **umuttyalccin@gmail.com
+**
 
 ---
 
